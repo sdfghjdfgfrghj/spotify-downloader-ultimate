@@ -1,0 +1,40 @@
+# Spotify Downloader Ultimate - Requirements
+# Core dependencies for the Python desktop version
+
+# Spotify API
+spotipy>=2.22.1
+
+# Audio processing
+yt-dlp>=2023.7.6
+mutagen>=1.47.0
+
+# Audio fingerprinting
+pyacoustid>=1.2.2
+
+# HTTP requests
+requests>=2.31.0
+
+# Parallel processing
+concurrent.futures
+
+# File handling
+pathlib
+
+# JSON handling
+json
+
+# System utilities
+os
+sys
+time
+logging
+
+# Optional: For better audio quality detection
+acoustid>=1.2.0
+
+# Optional: For advanced audio processing
+pydub>=0.25.1
+
+# Optional: For GUI version (future)
+# tkinter (built-in)
+# PyQt5>=5.15.0
