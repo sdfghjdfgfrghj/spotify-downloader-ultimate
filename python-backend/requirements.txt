@@ -1,0 +1,14 @@
+# Spotify Downloader Ultimate - Requirements
+spotipy>=2.22.1
+yt-dlp>=2023.12.30
+beautifulsoup4>=4.12.2
+requests>=2.31.0
+eyed3>=0.9.7
+pyacoustid>=1.2.2
+fake-useragent>=1.4.0
+lxml>=4.9.3
+
+# Mobile Web Server Dependencies
+flask>=2.3.0
+flask-socketio>=5.3.0
+python-socketio>=5.8.0
